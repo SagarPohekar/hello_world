@@ -23,3 +23,6 @@ class Point:
 
   def Print(self):
     print (self.x, self.y)
+
+  def _Debug(self);
+    return (self.x,self.y)
