@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 from Line import Line
 
 class Triangle:
@@ -26,3 +27,6 @@ class Triangle:
   @point3.setter
   def point3(self,value):
     self.point3 = value;
+=======
+
+>>>>>>> 3781d3081bbec1935637df710a3719d7ca76ef25
